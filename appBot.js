@@ -5,14 +5,13 @@ const api = require('covid19-api');
 const Extra = require('telegraf/extra')
 const Markup = require('telegraf/markup')
 
- 
 const bot = new Telegraf(process.env.BOT_TOKEN);
-bot.start((ctx) => ctx.replyWithHTML(
+bot.start((ctx) => ctx.reply(
     `Привіт ${ctx.message.from.first_name}!
      Цей  ЧАТ надає оновлені дані про випадки коронавірусу в режимі реального часу зі сторінки світових метрів та інших важливих веб-сайтів, що надаються найвідомішими організаціями та статистичними управліннями у світі.
      `,
      Markup.keyboard([
-             ['<i>Ukraine</i>','Hungary'], 
+             ['Ukraine','Hungary'], 
              ['Slovakia', 'Moldova'],
              ['Poland','Belarus']
          ])
