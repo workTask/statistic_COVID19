@@ -7,4 +7,7 @@ Statistic COVID19
 6. Link telegram doc https://core.telegram.org/bots/api
 
 
+Group in telegrm @Lider20_bot
+
+
 
