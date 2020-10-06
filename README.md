@@ -3,7 +3,7 @@ Statistic COVID19
 2. NPMjs https://www.npmjs.com/package/covid19-api for data
 3. Install module the lick https://www.npmjs.com/package/telegraf 
 4. Create BOT in telegram (0.Find FatherBot; 1./newbot; 2.nameBot; 3.username_bot)
-5. Copi token in bot for created bot in option 4
+5. Copy token in bot for created bot in option 4
 6. Link telegram doc https://core.telegram.org/bots/api
 
 
