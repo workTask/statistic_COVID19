@@ -11,7 +11,10 @@
   "devDependencies": {},
   "scripts": {
     "test": "mocha",
-    "start": "appBot.js"
+    "start": "node appBot.js"
+  },
+  "engines": {
+    "node": "10.21.0"
   },
   "repository": {
     "type": "git",
