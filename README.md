@@ -1,4 +1,4 @@
-Statistic COVID19
+Statistic COVID19 https://telegramm.site/#/im?p=@COVID19Static_Bot
 1. API link https://www.worldometers.info/coronavirus/
 2. NPMjs https://www.npmjs.com/package/covid19-api for data
 3. Install module the lick https://www.npmjs.com/package/telegraf 
