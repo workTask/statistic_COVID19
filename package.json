@@ -11,10 +11,11 @@
   "devDependencies": {},
   "scripts": {
     "test": "mocha",
-    "start": "nodemon appBot.js"
+    "start": "appBot.js"
   },
   "engines": {
-    "node": "10.21.0"
+    "node": "10.21.0",
+    "nodemon": "2.0.4"
   },
   "repository": {
     "type": "git",
