@@ -1,1 +1,2 @@
-web: nodemon appBot.js
+worcker: node appBot.js
+web: node appBot.js

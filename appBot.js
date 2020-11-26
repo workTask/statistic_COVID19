@@ -5,7 +5,7 @@ const api = require('covid19-api');
 const Extra = require('telegraf/extra')
 const Markup = require('telegraf/markup')
 
-const bot = new Telegraf("1306735604:AAGnZNSHKfH-eLutUqSQ-r1HbDRdQsfcVCg");
+const bot = new Telegraf("1446298485:AAFhy3FX2DmCh-zDHXj3tqQclp29FRQ7RYQ");
 bot.start((ctx) => ctx.reply(
     `Привіт ${ctx.message.from.first_name}!
      Цей  ЧАТ надає оновлені дані про випадки коронавірусу в режимі реального часу зі сторінки світових метрів та інших важливих веб-сайтів, що надаються найвідомішими організаціями та статистичними управліннями у світі.
