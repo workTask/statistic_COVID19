@@ -1,7 +1,8 @@
 
 Real-time coronavirus information telegram bot with external API, which provides updated data on coronavirus cases from world meters and other important websites provided by the world's most famous organizations and statistical offices, covers about 205 countries world
 -------------------------------------------------------------------------------
-Group in telegram https://xn--80affa3aj0al.xn--80asehdb/#/im?p=@Lider20_bot
+Group in telegram @COVID19Static_Bot
+https://telegramm.site/#/im?p=@COVID19Static_Bot
 _______________________________________________________________________________
 
 Statistic COVID19 https://telegramm.site/#/im?p=@COVID19Static_Bot
